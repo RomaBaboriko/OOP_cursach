@@ -1,0 +1,333 @@
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\testhost.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\testhost.exe
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\background.bmp
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\dash.bmp
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Tests.deps.json
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Tests.runtimeconfig.json
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Tests.runtimeconfig.dev.json
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Tests.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ref\Tests.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Tests.pdb
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\SharpDX.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\SharpDX.Mathematics.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\2DSpriteGameDX.exe
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\SharpDX.Direct2D1.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\SharpDX.DirectInput.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\SharpDX.Desktop.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\SharpDX.DXGI.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\2DSpriteGameDX.pdb
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\2DSpriteGameDX.exe.config
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\SharpDX.DirectInput.pdb
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\bin\Debug\net5.0\SharpDX.DirectInput.xml
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\obj\Debug\net5.0\Tests.csprojAssemblyReference.cache
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\obj\Debug\net5.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\obj\Debug\net5.0\Tests.AssemblyInfoInputs.cache
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\obj\Debug\net5.0\Tests.AssemblyInfo.cs
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\obj\Debug\net5.0\Tests.csproj.CoreCompileInputs.cache
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\obj\Debug\net5.0\Tests.csproj.CopyComplete
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\obj\Debug\net5.0\Tests.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\obj\Debug\net5.0\ref\Tests.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\obj\Debug\net5.0\Tests.pdb
+D:\Styding\4 семестр\bank\2DSpriteGame\Tests\obj\Debug\net5.0\Tests.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\testhost.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\testhost.exe
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\background.bmp
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\dash.bmp
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Tests.deps.json
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Tests.runtimeconfig.json
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Tests.runtimeconfig.dev.json
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Tests.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Tests.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\SharpDX.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\SharpDX.Desktop.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\SharpDX.Direct2D1.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\SharpDX.DXGI.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\SharpDX.Mathematics.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\2DSpriteGameDX.exe
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\SharpDX.DirectInput.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\2DSpriteGameDX.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\2DSpriteGameDX.exe.config
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\SharpDX.DirectInput.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\SharpDX.DirectInput.xml
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\obj\Debug\net5.0\Tests.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\obj\Debug\net5.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\obj\Debug\net5.0\Tests.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\obj\Debug\net5.0\Tests.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\obj\Debug\net5.0\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\obj\Debug\net5.0\Tests.csproj.CopyComplete
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\obj\Debug\net5.0\Tests.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\obj\Debug\net5.0\refint\Tests.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\obj\Debug\net5.0\Tests.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\obj\Debug\net5.0\Tests.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Рабочий стол\ФАИС\ИТИ-22\2 sem\Курсач\Roma\bank\2DSpriteGame\Tests\obj\Debug\net5.0\ref\Tests.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\testhost.exe
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\testhost.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\background.bmp
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\dash.bmp
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Tests.deps.json
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Tests.runtimeconfig.json
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Tests.runtimeconfig.dev.json
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Tests.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ref\Tests.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Tests.pdb
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\SharpDX.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\SharpDX.Desktop.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\SharpDX.Direct2D1.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\SharpDX.DXGI.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\SharpDX.Mathematics.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\2DSpriteGameDX.exe
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\SharpDX.DirectInput.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\2DSpriteGameDX.pdb
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\2DSpriteGameDX.exe.config
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\SharpDX.DirectInput.pdb
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\bin\Debug\net5.0\SharpDX.DirectInput.xml
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\obj\Debug\net5.0\Tests.csproj.AssemblyReference.cache
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\obj\Debug\net5.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\obj\Debug\net5.0\Tests.AssemblyInfoInputs.cache
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\obj\Debug\net5.0\Tests.AssemblyInfo.cs
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\obj\Debug\net5.0\Tests.csproj.CoreCompileInputs.cache
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\obj\Debug\net5.0\Tests.csproj.CopyComplete
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\obj\Debug\net5.0\Tests.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\obj\Debug\net5.0\ref\Tests.dll
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\obj\Debug\net5.0\Tests.pdb
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\Tests\obj\Debug\net5.0\Tests.genruntimeconfig.cache

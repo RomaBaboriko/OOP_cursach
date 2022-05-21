@@ -1,0 +1,119 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\КУРСАЧ\\Roma\\bank\\2DSpriteGame\\Tests\\Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\КУРСАЧ\\Roma\\bank\\2DSpriteGame\\2DSpriteGameDX\\Bank.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\КУРСАЧ\\Roma\\bank\\2DSpriteGame\\2DSpriteGameDX\\Bank.csproj",
+        "projectName": "Bank",
+        "projectPath": "D:\\КУРСАЧ\\Roma\\bank\\2DSpriteGame\\2DSpriteGameDX\\Bank.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "D:\\КУРСАЧ\\Roma\\bank\\2DSpriteGame\\Tests\\Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\КУРСАЧ\\Roma\\bank\\2DSpriteGame\\Tests\\Tests.csproj",
+        "projectName": "Tests",
+        "projectPath": "D:\\КУРСАЧ\\Roma\\bank\\2DSpriteGame\\Tests\\Tests.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\КУРСАЧ\\Roma\\bank\\2DSpriteGame\\Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\КУРСАЧ\\Roma\\bank\\2DSpriteGame\\2DSpriteGameDX\\Bank.csproj": {
+                "projectPath": "D:\\КУРСАЧ\\Roma\\bank\\2DSpriteGame\\2DSpriteGameDX\\Bank.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "SharpDX": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "SharpDX.Desktop": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "SharpDX.Direct2D1": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "SharpDX.Mathematics": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

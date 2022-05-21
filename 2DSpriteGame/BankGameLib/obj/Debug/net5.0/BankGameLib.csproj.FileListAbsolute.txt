@@ -1,0 +1,12 @@
+D:\Styding\4 семестр\bank\2DSpriteGame\BankGameLib\bin\Debug\net5.0\BankGameLib.deps.json
+D:\Styding\4 семестр\bank\2DSpriteGame\BankGameLib\bin\Debug\net5.0\BankGameLib.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\BankGameLib\bin\Debug\net5.0\ref\BankGameLib.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\BankGameLib\bin\Debug\net5.0\BankGameLib.pdb
+D:\Styding\4 семестр\bank\2DSpriteGame\BankGameLib\obj\Debug\net5.0\BankGameLib.csprojAssemblyReference.cache
+D:\Styding\4 семестр\bank\2DSpriteGame\BankGameLib\obj\Debug\net5.0\BankGameLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Styding\4 семестр\bank\2DSpriteGame\BankGameLib\obj\Debug\net5.0\BankGameLib.AssemblyInfoInputs.cache
+D:\Styding\4 семестр\bank\2DSpriteGame\BankGameLib\obj\Debug\net5.0\BankGameLib.AssemblyInfo.cs
+D:\Styding\4 семестр\bank\2DSpriteGame\BankGameLib\obj\Debug\net5.0\BankGameLib.csproj.CoreCompileInputs.cache
+D:\Styding\4 семестр\bank\2DSpriteGame\BankGameLib\obj\Debug\net5.0\BankGameLib.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\BankGameLib\obj\Debug\net5.0\ref\BankGameLib.dll
+D:\Styding\4 семестр\bank\2DSpriteGame\BankGameLib\obj\Debug\net5.0\BankGameLib.pdb
