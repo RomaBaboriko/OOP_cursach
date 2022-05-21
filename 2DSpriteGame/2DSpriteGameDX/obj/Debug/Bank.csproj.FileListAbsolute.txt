@@ -79,10 +79,10 @@ D:\КУРСАЧ\Roma\bank\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.DXGI.pdb
 D:\КУРСАЧ\Roma\bank\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.DXGI.xml
 D:\КУРСАЧ\Roma\bank\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Mathematics.pdb
 D:\КУРСАЧ\Roma\bank\2DSpriteGame\2DSpriteGameDX\bin\Debug\SharpDX.Mathematics.xml
-D:\КУРСАЧ\Roma\bank\2DSpriteGame\2DSpriteGameDX\obj\Debug\Bank.csproj.AssemblyReference.cache
 D:\КУРСАЧ\Roma\bank\2DSpriteGame\2DSpriteGameDX\obj\Debug\_2DSpriteGameDX.Properties.Resources.resources
 D:\КУРСАЧ\Roma\bank\2DSpriteGame\2DSpriteGameDX\obj\Debug\Bank.csproj.GenerateResource.cache
 D:\КУРСАЧ\Roma\bank\2DSpriteGame\2DSpriteGameDX\obj\Debug\Bank.csproj.CoreCompileInputs.cache
 D:\КУРСАЧ\Roma\bank\2DSpriteGame\2DSpriteGameDX\obj\Debug\Bank.csproj.CopyComplete
 D:\КУРСАЧ\Roma\bank\2DSpriteGame\2DSpriteGameDX\obj\Debug\2DSpriteGameDX.exe
 D:\КУРСАЧ\Roma\bank\2DSpriteGame\2DSpriteGameDX\obj\Debug\2DSpriteGameDX.pdb
+D:\КУРСАЧ\Roma\bank\2DSpriteGame\2DSpriteGameDX\obj\Debug\Bank.csproj.AssemblyReference.cache

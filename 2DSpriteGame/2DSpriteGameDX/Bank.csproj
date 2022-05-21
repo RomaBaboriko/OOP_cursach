@@ -68,9 +68,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="GameLib\Bonuses\BonusFactory.cs" />
+    <Compile Include="GameLib\Bonuses\Key.cs" />
     <Compile Include="GameLib\Bonuses\Protection.cs" />
+    <Compile Include="GameLib\Bonuses\Freezing.cs" />
+    <Compile Include="GameLib\Bonuses\SpeedMinus.cs" />
     <Compile Include="GameLib\Bonuses\SpeedPlus.cs" />
+    <Compile Include="GameLib\Bonuses\TimeMinus.cs" />
     <Compile Include="GameLib\Perses\FastPers.cs" />
+    <Compile Include="GameLib\Perses\ProtectedPers.cs" />
+    <Compile Include="GameLib\Perses\SlowPers.cs" />
+    <Compile Include="GameLib\Perses\StoppedPers.cs" />
     <Compile Include="GameLib\Sprites\BackGround.cs" />
     <Compile Include="GameLib\Bonuses\Bonus.cs" />
     <Compile Include="GameLib\Bonuses\Coin.cs" />

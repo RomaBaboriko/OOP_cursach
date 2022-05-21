@@ -23,42 +23,6 @@ namespace _2DSpriteGameDX.GameLib.Perses
             this._speed *= 3;
         }
     }
-
-    public class ProtectedPers : SuperPers
-    {
-        public bool Protected;
-        public ProtectedPers(Pers pers) : base(pers)
-        {
-            Protected = true;
-        }
-        public override void Draw()
-        {
-            ActiveSprite.DrawProtection(rect);
-            base.Draw();
-        }
-    }
-
-    public class StoppedPers : SuperPers
-    {
-        public bool Stopped;
-        public StoppedPers(Pers pers) : base(pers)
-        {
-            Stopped = true;
-            direction = Direction.Ahead;
-        }
-        public override void MoveLeft() { }
-        public override void MoveRigth() { }
-        public override void MoveUp() { }
-        public override void MoveDown() { }
-    }
-
-    public class SlowPers : SuperPers
-    {
-        public SlowPers(Pers pers) : base(pers)
-        {
-            this._speed /= 2;
-        }
-    }
     public class KeyKeeper : SuperPers
     {
         public bool HaveKey;
@@ -91,7 +55,7 @@ namespace _2DSpriteGameDX.GameLib.Perses
             }
             base.Draw();
             key.Draw(new RectangleF(_purLeft, _purTop, _purWidth, _purHeigth));
-            
+
         }
     }
 }

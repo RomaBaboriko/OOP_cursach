@@ -14,11 +14,5 @@ namespace _2DSpriteGameDX
             _bonusType = BonusType.TimePlus;
         }
     }
-    public class TimeMinus : Bonus
-    {
-        public TimeMinus(Sprite sprite, Vector2 pos, int time = 10) : base(sprite, pos, time)
-        {
-            _bonusType = BonusType.TimeMinus;
-        }
-    }
+    
 }

@@ -8,19 +8,7 @@ using System.Threading.Tasks;
 
 namespace _2DSpriteGameDX.GameLib.Bonuses
 {
-    public class Freezing : Bonus , ISuperPower
-    {
-        public Freezing(Sprite sprite, Vector2 pos, int time = 10) : base(sprite, pos, time)
-        {
-            _bonusType = BonusType.Freezing;
-        }
-
-        public Pers SuperPower(Pers pers)
-        {
-            return new StoppedPers(pers);
-        }
-    }
-    public class Protection : Bonus , ISuperPower
+    public class Protection : Bonus, ISuperPower
     {
         public Protection(Sprite sprite, Vector2 pos, int time = 10) : base(sprite, pos, time)
         {
@@ -32,5 +20,5 @@ namespace _2DSpriteGameDX.GameLib.Bonuses
             return new ProtectedPers(pers);
         }
     }
-
 }
+

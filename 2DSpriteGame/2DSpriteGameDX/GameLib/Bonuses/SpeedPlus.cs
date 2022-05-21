@@ -20,27 +20,6 @@ namespace _2DSpriteGameDX.GameLib.Bonuses
         }
     }
 
-    public class SpeedMinus : Bonus , ISuperPower
-    {
-        public SpeedMinus(Sprite sprite, Vector2 pos, int time = 10) : base(sprite, pos, time)
-        {
-            _bonusType = BonusType.SpeedMinus;
-        }
-        public Pers SuperPower(Pers pers)
-        {
-            return new SlowPers(pers);
-        }
-    }
-    public class Key : Bonus, ISuperPower
-    {
-        public Key(Sprite sprite, Vector2 pos, int time = 60) : base(sprite, pos, time)
-        {
-            _bonusType = BonusType.Key;
-        }
-        public Pers SuperPower(Pers pers)
-        {
-
-            return new KeyKeeper(pers, _sprite);
-        }
-    }
+    
+    
 }
